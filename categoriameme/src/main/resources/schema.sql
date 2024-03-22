@@ -14,4 +14,4 @@ INTO
   category_meme
   (name, descricao, data_cadastro, usuario_id)
 VALUES
-  ('aef', 'qwefqe', current_date, 1);
+  ('CategoriaMemeTest', 'Rir muito', current_date, 1);
